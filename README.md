@@ -15,8 +15,10 @@ Here is what the website looks on my 2560x1440 size monitor.
 ![image](https://github.com/user-attachments/assets/d162a4b9-fc4e-4a48-97d5-37a06c77bdfb)
 
 
-Here is the template we were given to follow as well as the properties for certain elements in the website as well.
+ Below are the template we were given to follow per instructions as well as the properties for certain elements in the website as well.
 
 ![image](https://github.com/user-attachments/assets/5552dae0-9c1b-4ce7-acc3-68411643c0b8)
 
+CSS properties to follow for various elements in the website:
+![02](https://github.com/user-attachments/assets/b7feba89-05a6-46e1-a600-c9fcda9f96aa)
 
