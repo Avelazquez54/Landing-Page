@@ -10,7 +10,7 @@ Any advice on how to improve it is greatly appreciated! Always looking to make i
 HUGE thanks to The Odin Project for putting these together and giving those the opportunity to study, practice, and implement web development skills with these projects!
 
 Here is a preview of my Landing Page Website:
-![image](https://github.com/user-attachments/assets/d162a4b9-fc4e-4a48-97d5-37a06c77bdfb)
+[image](https://github.com/user-attachments/assets/d162a4b9-fc4e-4a48-97d5-37a06c77bdfb)
 
 
  Below are the template we were given to follow per instructions as well as the properties for certain elements in the website as well.
